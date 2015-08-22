@@ -38,3 +38,8 @@ https://www.jetbrains.com/idea/help/getting-started-with-erlang.html
 http://me2.do/Fi6E7wCn
 
 소감 : 더 간단하게도 구현가능해보이는데, 일단은 여기까지 ㅠㅠ
+
+### 브루스 테이트의 세븐 랭귀지 2일차 자율학습
+http://me2.do/xLOEtLQN
+
+소감 : 틱택토를 더 스마트하게 만들 수 있을꺼 같은데.. 일단 o가 성공하는 경우, x가 성공하는 모든 경우를 보도록 구현했다.
