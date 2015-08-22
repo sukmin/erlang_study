@@ -35,4 +35,4 @@ https://www.jetbrains.com/idea/help/getting-started-with-erlang.html
 ```
 
 ### 브루스 테이트의 세븐 랭귀지 1일차
-https://github.com/sukmin/erlang_study/blob/master/%EB%B8%8C%EB%A3%A8%EC%8A%A4_%ED%85%8C%EC%9D%B4%ED%8A%B8%EC%9D%98_%EC%84%B8%EB%B8%90_%EB%9E%AD%EA%B7%80%EC%A7%80/task01.erl
+http://me2.do/Fi6E7wCn
