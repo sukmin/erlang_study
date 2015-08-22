@@ -34,7 +34,7 @@ rebar는 erlang 설치할때 openssl 옵션 안줬으면 설치안될 수도 있
 https://www.jetbrains.com/idea/help/getting-started-with-erlang.html
 ```
 
-### 브루스 테이트의 세븐 랭귀지 1일차
+### 브루스 테이트의 세븐 랭귀지 1일차 자율학습
 http://me2.do/Fi6E7wCn
 
 소감 : 더 간단하게도 구현가능해보이는데, 일단은 여기까지 ㅠㅠ
